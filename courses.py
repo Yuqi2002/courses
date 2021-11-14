@@ -7,9 +7,6 @@
 Class=()
 # list to store user input in
 schedule=[]
-
-
-
 # while statement that repeatedly prompts user input
 while len(schedule)!=5:
     while len(schedule)<5:
